@@ -1,9 +1,1 @@
-[ {
-    "patchName" : "Custom-package-name",
-    "options" : [ {
-      "key" : "PackageNameYouTube",
-      "value" : "app.rvex.android.youtube"
-    }, {
-      "key" : "",
-      "value" : ""
-    } ]
+[]
