@@ -61,7 +61,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
 
-[YouTube-Extended]
+[YouTube-Extended-Anddea]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 enabled = true
 app-name = "YouTube"
@@ -74,3 +74,17 @@ version = "19.20.34"
 included-patches = "'Enable slide to seek'"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[YouTube-Extended-inotia]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+enabled = true
+app-name = "YouTube"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "inotia00 ReVanced"
+excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
+version = "19.20.34"
+included-patches = "'Enable slide to seek'"
+build-mode = "both"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
