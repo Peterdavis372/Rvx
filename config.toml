@@ -71,12 +71,12 @@ rv-brand = "Anddea ReVanced"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 version = "19.20.34"
 included-patches = "'Enable slide to seek'"
-build-mode = "both"
+build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Extended-inotia]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-enabled = true
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
