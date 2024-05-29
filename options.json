@@ -1,1 +1,6 @@
-[]
+[ {
+    "patchName" : "Custom package name",
+    "options" : [ {
+      "key" : "PackageNameYouTube",
+      "value" : "app.rvxanddea.android.youtube"
+    } ]
