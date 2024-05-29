@@ -6,9 +6,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
+build-mode = "apk"
 version = "19.11.43"
 included-patches = "'Enable slide to seek'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -71,12 +71,12 @@ rv-brand = "Anddea ReVanced"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 version = "19.20.34"
 included-patches = "'Enable slide to seek'"
-build-mode = "apk"
+build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Extended-inotia]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
