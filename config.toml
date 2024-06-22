@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "apk"
-version = "19.11.43"
+version = "19.16.39"
 included-patches = "'Enable slide to seek'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
