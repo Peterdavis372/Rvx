@@ -68,14 +68,14 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
-version = "19.23.40"
+version = "19.16.39"
 included-patches = "'Enable slide to seek'"
-patches-version = "v2.227.0-dev.9"
+patches-version = "2.228.0-dev.11"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [YouTube-Extended-inotia]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
