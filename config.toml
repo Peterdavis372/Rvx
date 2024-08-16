@@ -64,13 +64,14 @@ arch = "both"
 [YouTube-Extended-Anddea]
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 version = "19.16.39"
 excluded-patches = "'Custom branding name for YouTube' 'Custom branding icon for YouTube'"
 included-patches = "'Enable slide to seek'"
-patches-version = "v2.228.0-dev.11"
+patches-version = "v2.228.0-dev.12"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
